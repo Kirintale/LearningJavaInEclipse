@@ -1,7 +1,7 @@
 # LearningJavaInEclipse
 The purpose of this project is to give people new to programming and eclipse a hands on experience in learning programming. The system involves looking through and interacting with pre-written code in Java, in the eclipse environment . As the course progresses simple and "fun" assignments will be provided based on the information that has been learnt, along with details about design principals. As a note, these projects should not be taken in isolation and outside reading will be required to get a full understanding of the language.
 
-As no system was developed in isolation, neither should this. If you find any errors, mistakes or have any questions/recommendations for improvements. Please include them in the comments section.
+As no system was developed in isolation, neither should this. If you find any errors, mistakes, have any questions/recommendations for improvements or if you feel like any stage requires more explanation. Please include them in the comments section.
 
 # Ok first things first why Java?
 Java is an Object Orientated (OO) programing language that works across multiple platforms (Linux, Mac, Windows etc…). It’s used by a wide range of people, is well supported and you do not have to worry about memory management, making it relatively easy to learn. There are also decent Integrated Development Environments (IDEs) (Read - The place where you write your code), which makes your life easier.
